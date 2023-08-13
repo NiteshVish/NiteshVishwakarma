@@ -10,11 +10,9 @@
     justify-content: space-between;
 }
 .align-center{
-    align-center: center;
+    align-items: center;
 }
-.justify-center{
-    justify-center: 
-}
+
 .upper-class{
     text-transform: uppercase;
 }
@@ -46,9 +44,7 @@
 .my-t-20{
     margin-top: 30px;
 }
-.pd-t-30{
-    
-}
+
 .contact-list
 {
     margin-top: 15px;
