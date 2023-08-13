@@ -46,3 +46,53 @@
 .my-t-20{
     margin-top: 30px;
 }
+.pd-t-30{
+    
+}
+.contact-list
+{
+    margin-top: 15px;
+}
+.contact-list  li{
+    margin-top: 8px;
+}
+.contact-card{
+     
+    margin: auto 0;
+    position: absolute;
+    left: 50%;
+    top: 21%;
+    transform: translate(-50%, -20%);
+    padding: 58px;
+    background:linear-gradient(to right,#656565, #242424, #040404);
+    box-shadow: rgba(118, 117, 117, 0.35) 0px 5px 15px;
+    width: 400px;
+    height: 300px;
+    border-radius: 30px;
+
+
+
+}
+.contact-card span{
+    color: #d40700;
+}
+#contact-listhead
+{
+    text-align: center;
+    width: 100%;
+    padding-top: 30px;
+    
+}
+.box-shadow
+{
+    background:linear-gradient(to right,#656565, #242424, #040404);
+    box-shadow: rgba(118, 117, 117, 0.35) 0px 5px 15px;
+    width: 800px;
+    height: 500px;
+    border-radius: 30px;
+    /* justify-items: center; */
+    margin-left: 180px;
+}
+.center_text{
+    text-align: center;
+}
